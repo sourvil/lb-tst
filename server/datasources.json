@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgres": {
+    "host": "loopbacktest.cjsaqj3uoooi.eu-west-3.rds.amazonaws.com",
+    "port": 5432,
+    "url": "",
+    "database": "loopbacktest",
+    "password": "loopbacktest",
+    "name": "postgres",
+    "user": "loopbacktest",
+    "connector": "postgresql"
+  }
+}
