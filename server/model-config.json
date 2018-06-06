@@ -38,5 +38,9 @@
   "ps-entity": {
     "dataSource": "postgres",
     "public": true
+  },
+  "Country": {
+    "dataSource": "postgres",
+    "public": true
   }
 }
