@@ -42,5 +42,9 @@
   "Country": {
     "dataSource": "postgres",
     "public": true
+  },
+  "City": {
+    "dataSource": "postgres",
+    "public": true
   }
 }
